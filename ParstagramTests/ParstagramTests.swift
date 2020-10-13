@@ -2,7 +2,7 @@
 //  ParstagramTests.swift
 //  ParstagramTests
 //
-//  Created by Joey Thomas on 10/10/20.
+//  Created by Nick Tralongo on 10/10/20.
 //
 
 import XCTest
