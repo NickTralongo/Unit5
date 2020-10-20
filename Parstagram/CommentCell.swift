@@ -2,7 +2,7 @@
 //  CommentCell.swift
 //  Parstagram
 //
-//  Created by Joey Thomas on 10/13/20.
+//  Created by Nick Tralongo on 10/13/20.
 //
 
 import UIKit
